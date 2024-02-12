@@ -17,4 +17,6 @@ highly nonlinear response with temperature- and moisture dependency is shown. Im
 the deep-learning model solely utilizes experimental data, demonstrating the capability to
 capture the complex stress-strain response of the material at hand.
 
+The figure below presents the architecture of our thermodynamic consistent DL model.
+
 ![This is an image](/pinn.PNG)
