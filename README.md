@@ -1,6 +1,6 @@
 # A deep-learning based and thermodynamically consistent approach for
-constitutive modeling of fiber reinforced nanoparticle-filled epoxy
-nanocomposites under ambient conditions
+# constitutive modeling of fiber reinforced nanoparticle-filled epoxy
+# nanocomposites under ambient conditions
 
 In this work, we propose a physics-informed deep learning (DL)-based constitutive model for
 investigating epoxy based composites under different ambient conditions. The deep-learning
