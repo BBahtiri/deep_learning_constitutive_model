@@ -21,6 +21,8 @@ The figure below presents the architecture of our thermodynamic consistent DL mo
 
 ![This is an image](/pinn.PNG)
 
+# References
+
 For more informations, refer to our paper:
 
 [Paper](https://doi.org/10.1016/j.cma.2024.117038)
