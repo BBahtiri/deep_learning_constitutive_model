@@ -20,3 +20,19 @@ capture the complex stress-strain response of the material at hand.
 The figure below presents the architecture of our thermodynamic consistent DL model.
 
 ![This is an image](/pinn.PNG)
+
+For more informations, refer to our paper:
+
+[Paper](https://doi.org/10.1016/j.cma.2024.117038)
+
+```
+@article{bahtiri2024thermodynamically,
+  title={A thermodynamically consistent physics-informed deep learning material model for short fiber/polymer nanocomposites},
+  author={Bahtiri, Betim and Arash, Behrouz and Scheffler, Sven and Jux, Maximilian and Rolfes, Raimund},
+  journal={Computer Methods in Applied Mechanics and Engineering},
+  volume={427},
+  pages={117038},
+  year={2024},
+  publisher={Elsevier}
+}
+```
