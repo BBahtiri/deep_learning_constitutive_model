@@ -70,8 +70,8 @@ nvidia-cudnn-cu11  # For GPU acceleration
 ### Option 1: Clone and Install
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/PHYSICS-AI.git
-cd PHYSICS-AI
+git clone https://github.com/BBahtiri/Deep-Learning-Constitutive-Model.git
+cd Deep-Learning-Constitutive-Model
 
 # Create virtual environment (recommended)
 python -m venv physics_ai_env
@@ -352,9 +352,6 @@ If you use this code in your research, please cite:
 }
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
 ### Areas for Contribution
 - **New Material Systems**: Adapt framework for metals, ceramics, biologics
@@ -366,8 +363,8 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 ### Development Setup
 ```bash
 # Fork and clone your fork
-git clone https://github.com/yourusername/PHYSICS-AI.git
-cd PHYSICS-AI
+git clone https://github.com/BBahtiri/Deep-Learning-Constitutive-Model.git
+cd Deep-Learning-Constitutive-Model
 
 # Create development environment
 python -m venv dev_env
@@ -405,20 +402,10 @@ layer_size = 20       # Simplify architecture
 - Ensure sufficient data files in train/validation directories
 
 ### Getting Help
-- 📧 **Email**: [your.email@institution.edu]
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/PHYSICS-AI/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/PHYSICS-AI/discussions)
+- 📧 **Email**: [betimbahtiri@outlook.de]
+- 🐛 **Issues**: [GitHub Issues](https://github.com/BBahtiri/Deep-Learning-Constitutive-Model/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/BBahtiri/Deep-Learning-Constitutive-Model/discussions)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Research Team**: Institute for Computational Materials Science
-- **Funding**: [Grant/Funding Information]
-- **Experimental Data**: Provided by [Collaborating Institution]
-- **Computational Resources**: [HPC Center/Cloud Provider]
 
 ---
 
